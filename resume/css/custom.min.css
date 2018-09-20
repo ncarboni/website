@@ -1,0 +1,172 @@
+body {
+	padding-top: 10px
+	
+}
+
+.me {
+	margin-bottom: 10px;
+	margin-top: 15px
+}
+
+.mattia {
+	margin-top: 30px;
+	font-size: 3em;
+	font-weight: 700;
+	line-height: 22px
+}
+
+.titolo {
+	font-size: 1.5em
+}
+
+#contact {
+	padding-bottom: 30px
+}
+
+#skills,
+#lang,
+#availability {
+	padding-bottom: 30px
+}
+
+#address {
+	padding-bottom: 5px;
+	padding-top: 20px
+}
+
+.job {
+	padding-bottom: 30px;
+	padding-top: 10px
+}
+
+.job-desc {
+	font-size: 15px;
+	padding-top: 10px
+}
+
+#skills {
+	font-size: 14px
+}
+
+.skill-list {
+	font-size: 14px;
+	padding-bottom: 15px
+}
+
+#lang,
+#license p {
+	font-size: 14px
+}
+
+.edu {
+	padding-bottom: 20px
+}
+
+#availability p {
+	font-size: 14px
+}
+
+.tools span.label {
+	line-height: 3
+}
+
+.cat {
+	padding-bottom: 9px;
+	margin: 25px 0 20px;
+	border-bottom: 1px solid #eee
+}
+
+.about-me {
+	padding-bottom: 0
+}
+
+.cat-side {
+	padding-bottom: 9px;
+	margin: 5px 0 20px;
+	border-bottom: 1px solid #eee
+}
+
+.first-cat {
+	padding-bottom: 9px;
+	margin: 22px 0 20px;
+	border-bottom: 1px solid #eee
+}
+
+#footer {
+	margin: 40px 0 20px;
+	vertical-align: text-bottom
+}
+
+@media(min-width:769px) {
+	body {
+		padding-top: 20px
+	}
+	.mattia {
+		font-size: 2.3em;
+		font-weight: 700;
+		line-height: 16px
+	}
+	.titolo {
+		font-size: 1em
+	}
+}
+
+@media print {
+	body {
+		width: 1050px!important;
+		margin-top: 0!important
+	}
+	div[class|=col-] {
+		float: left!important
+	}
+	.col-md-3 {
+		width: 33%!important;
+		padding: 0!important;
+		display: inline-block;
+		vertical-align: top
+	}
+	.col-md-9 {
+		width: 66%!important;
+		display: inline-block
+	}
+	.col-md-4 {
+		width: 50%
+	}
+	.col-md-8 {
+		width: 50%
+	}
+	.me {
+		margin-bottom: 10px!important;
+		margin-top: 15px!important
+	}
+	.mattia {
+		margin-top: 28px!important;
+		font-size: 2.2em!important;
+		font-weight: 700!important;
+		line-height: 16px!important
+	}
+	.titolo {
+		font-size: 1.1em!important
+	}
+	.text-muted {
+		color: #999
+	}
+	small {
+		font-size: 80%
+	}
+	u {
+		text-decoration: none
+	}
+	.spazio1 {
+		height: 725px
+	}
+	.spazio2 {
+		height: 195px
+	}
+	#footer {
+		margin-top: 100px
+	}
+	.no-print {
+		display: none
+	}
+}
