@@ -297,7 +297,7 @@
     </rdf:Property>
     <rdf:Property rdf:about="K6i_has_front">
         <rdfs:domain rdf:resource="IC20_Verso"/>
-        <rdfs:range rdf:resource="IC19_Recto">
+        <rdfs:range rdf:resource="IC19_Recto"/>
         <rdfs:comment xml:lang="en">The property documents the presence of a Verso or a Recto, respectively in the back or in the front of an object.</rdfs:comment>
         <rdfs:label xml:lang="en">has front</rdfs:label>
     <rdfs:subPropertyOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/P46i_forms_part_of"/>
