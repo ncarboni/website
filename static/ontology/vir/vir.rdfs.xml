@@ -12,7 +12,7 @@
         <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E71_Man-Made_Thing"/>
         <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Character</rdfs:label>
     </rdfs:Class>
-    <rdfs:Class rdf:about="IC10_Attribute">
+    <rdfs:Class rdf:about="\">
         <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item"/>
         <rdfs:subClassOf rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E29_Design_or_Procedure"/>
         <rdfs:comment>A set of features considered by a viewer more salient than others and used as a key for the identification of a Representation. The attribute could correspond to iconographical elements or simple signs which the viewer uses to provide a stable identity to a visual object.</rdfs:comment>
