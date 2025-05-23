@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-04-01 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I will be presenting **"Integrating Computational and Historical Methods for Investigating Image Circulations"** at the workshop '[Encoding the Image: How does AI affect the Future of Photo History?](https://theimagecentre.ca/symposium/imc-forum-encoding-the-image/)' at the Image Centre in Toronto.
