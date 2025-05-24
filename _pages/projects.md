@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 
-nav: false
+description: Some of the projects I developed or worked on.
+nav: true
 nav_order: 3
-display_categories: 
+display_categories: [developed, worked on]
 horizontal: false
 ---
 
