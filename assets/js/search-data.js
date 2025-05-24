@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "Some of the projects I developed or worked on.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "",
@@ -36,7 +43,37 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-presenting-integrating-computational-and-historical-methods-for-investigating-image-circulations-at-the-workshop-encoding-the-image-how-does-ai-affect-the-future-of-photo-history-at-the-image-centre-in-toronto",
           title: 'I will be presenting “Integrating Computational and Historical Methods for Investigating Image Circulations”...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-textent",
+          title: 'TextEnt',
+          description: "The TEXTual ENTities in time project aim to develop a pipeline to process at scale the geographical and diachronic dimensions of literature, using the spatiotemporal features of literary works to analyze cultural trends.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-artistic-trajectories",
+          title: 'Artistic Trajectories',
+          description: "The project study the development and dynamics of the different artistic american communities in Paris by tracing individual artistic trajectories.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-visual-contagions",
+          title: 'Visual Contagions',
+          description: "The project combine computer vision, data and network science to investigate the global circulation of images in the printed press from 1890 to 1990",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-artl-s",
+          title: 'Artl@s',
+          description: "project that promote the use of spatial, transnational and digital approaches to investigate history of art and visual studies",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
+            },},{id: "projects-cordh",
+          title: 'CORDH',
+          description: "The Consortium for Open Research Data in the Humanities aim to harmonize data standards and infrastructures to facilitate interoperability and the cross-pollination of research data.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
+            },},{id: "projects-sari",
+          title: 'SARI',
+          description: "The Swiss Art Research Infrastructure develop models and tools to document and make available information about the Swiss Art and Architectural heritage",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
+            },},{
         id: 'social-work',
         title: 'Work',
         section: 'Socials',
