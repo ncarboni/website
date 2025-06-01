@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ncarboni.github.io/sitemap.xml
+Sitemap: https://nicola.carboni.me/sitemap.xml
