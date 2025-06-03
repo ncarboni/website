@@ -11,7 +11,7 @@ nav_order: 6
 # PhD
 
 
-My research group investigates topics across digital heritage/humanities, cultural analytics, and informatics, with a focus on developing computational tools and methods for studying the significance of our heritage.
+My research group investigates topics across digital heritage/humanities, cultural analytics, and informatics, with a focus on developing computational tools and methods for studying the **significance** of our heritage.
 
 I welcome students who are interested in working on **cultural transmission**, **patrimonialization**, **heritage documentation** (both tangible and intangible), and **collections as data**, using methods/techniques from data science, network science, computer vision, or knowledge graph (or a mix of the above).
 
